@@ -23,9 +23,8 @@ Master, Authomation of electric power systems (2019)
   - Domain cautious exploration
   - Visualisation.
 - **Soft skills**:
-  - attention to details
-  - curiosity
-  - adaptability
+  - Attention to details
+  - Adaptability
   - Multitasking
 
 
