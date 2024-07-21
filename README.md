@@ -32,4 +32,4 @@ Master, Authomation of electric power systems (2019)
 :book:**Certificates**
 
 - [KARPOV COURSES START DA](https://lab.karpov.courses/certificate/8e14f564-2880-495c-8a9c-8833a5e767cb/en/)
-- [Basics of statistics] (https://stepik.org/cert/2142372)
+- [Basics of statistics](https://stepik.org/cert/2142372)
