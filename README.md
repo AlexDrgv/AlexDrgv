@@ -11,7 +11,7 @@ I am enthisiastic about data analysys, and Exploration, Interested in Everything
 :mortar_board: **Education**
 
 **Ural federal university**  
-Authomation of electric power systems, Master Degree
+Automation of electric power systems, Master Degree
 
 
 - **Tech skills**:<br>
